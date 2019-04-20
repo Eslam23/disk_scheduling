@@ -1,0 +1,5 @@
+1- start from initial =0
+2- we sort all the cylinders input ascending order
+3-while not reached to the last position go to the next request in queue 
+4-if we reached to the last position then the total head movement =the last position 
+5-this type is the best because its reduce the total number of movement 
